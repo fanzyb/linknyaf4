@@ -206,3 +206,17 @@
     background-position: center;
     border-radius: 50%;
   }
+  
+  .store {
+    max-width: 85%;
+    max-height: 85%;
+    border-radius: 5%;
+    object-position: center;
+    vertical-align: middle;
+  }
+  
+  .logo {
+    width: 250px;
+    
+  }
+  
